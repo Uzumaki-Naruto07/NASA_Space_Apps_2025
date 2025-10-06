@@ -1,0 +1,100 @@
+Latitude,Longitude,UTC,Parameter,Unit,AQI,Category,SiteName,AgencyName,FullAQSCode,IntlAQSCode,region,source,data_type,city
+43.257444,-79.90775,2025-05-23T00:00,OZONE,PPB,11,1,Hamilton West,Ontario Ministry of the Environment,000060515,124000060515,Canada,AirNow,historical,Toronto
+43.257444,-79.90775,2025-05-23T00:00,PM2.5,UG/M3,7,1,Hamilton West,Ontario Ministry of the Environment,000060515,124000060515,Canada,AirNow,historical,Toronto
+43.257444,-79.90775,2025-05-23T00:00,NO2,PPB,6,1,Hamilton West,Ontario Ministry of the Environment,000060515,124000060515,Canada,AirNow,historical,Toronto
+43.24132,-79.889328,2025-05-23T00:00,OZONE,PPB,12,1,Hamilton Mountain,Ontario Ministry of the Environment,124000060521,124000060521,Canada,AirNow,historical,Toronto
+43.24132,-79.889328,2025-05-23T00:00,PM2.5,UG/M3,9,1,Hamilton Mountain,Ontario Ministry of the Environment,124000060521,124000060521,Canada,AirNow,historical,Toronto
+43.24132,-79.889328,2025-05-23T00:00,NO2,PPB,2,1,Hamilton Mountain,Ontario Ministry of the Environment,124000060521,124000060521,Canada,AirNow,historical,Toronto
+43.52965,-79.862449,2025-05-23T00:00,PM2.5,UG/M3,24,1,Milton,Ontario Ministry of the Environment,124000067001,124000067001,Canada,AirNow,historical,Toronto
+43.52965,-79.862449,2025-05-23T00:00,NO2,PPB,12,1,Milton,Ontario Ministry of the Environment,124000067001,124000067001,Canada,AirNow,historical,Toronto
+43.52965,-79.862449,2025-05-23T00:00,OZONE,PPB,12,1,Milton,Ontario Ministry of the Environment,124000067001,124000067001,Canada,AirNow,historical,Toronto
+43.257778,-79.861667,2025-05-23T00:00,OZONE,PPB,10,1,Hamilton Downtown,Ontario Ministry of the Environment,000060512,124000060512,Canada,AirNow,historical,Toronto
+43.257778,-79.861667,2025-05-23T00:00,NO2,PPB,7,1,Hamilton Downtown,Ontario Ministry of the Environment,000060512,124000060512,Canada,AirNow,historical,Toronto
+43.314603,-79.80277,2025-05-23T00:00,PM2.5,UG/M3,19,1,Burlington,Ontario Ministry of the Environment,000063001,124000063001,Canada,AirNow,historical,Toronto
+43.314603,-79.80277,2025-05-23T00:00,OZONE,PPB,11,1,Burlington,Ontario Ministry of the Environment,000063001,124000063001,Canada,AirNow,historical,Toronto
+43.314603,-79.80277,2025-05-23T00:00,NO2,PPB,8,1,Burlington,Ontario Ministry of the Environment,000063001,124000063001,Canada,AirNow,historical,Toronto
+44.2325,-79.7814,2025-05-23T00:00,OZONE,PPB,22,1,Egbert,Canadian Air and Precipitation Monitoring Network,000064401,124000064401,Canada,AirNow,historical,Unknown
+44.2325,-79.7814,2025-05-23T00:00,PM2.5,UG/M3,1,1,Egbert,Canadian Air and Precipitation Monitoring Network,000064401,124000064401,Canada,AirNow,historical,Unknown
+43.669911,-79.766589,2025-05-23T00:00,PM2.5,UG/M3,27,1,Brampton,Ontario Ministry of the Environment,124000060450,124000060450,Canada,AirNow,historical,Toronto
+43.669911,-79.766589,2025-05-23T00:00,OZONE,PPB,11,1,Brampton,Ontario Ministry of the Environment,124000060450,124000060450,Canada,AirNow,historical,Toronto
+43.669911,-79.766589,2025-05-23T00:00,NO2,PPB,10,1,Brampton,Ontario Ministry of the Environment,124000060450,124000060450,Canada,AirNow,historical,Toronto
+44.382338,-79.702446,2025-05-23T00:00,OZONE,PPB,20,1,Barrie,Ontario Ministry of the Environment,000065001,124000065001,Canada,AirNow,historical,Unknown
+44.382338,-79.702446,2025-05-23T00:00,PM2.5,UG/M3,13,1,Barrie,Ontario Ministry of the Environment,000065001,124000065001,Canada,AirNow,historical,Unknown
+44.382338,-79.702446,2025-05-23T00:00,NO2,PPB,1,1,Barrie,Ontario Ministry of the Environment,000065001,124000065001,Canada,AirNow,historical,Unknown
+43.486917,-79.702278,2025-05-23T00:00,PM2.5,UG/M3,19,1,Oakville,Ontario Ministry of the Environment,124000061603,124000061603,Canada,AirNow,historical,Toronto
+43.486917,-79.702278,2025-05-23T00:00,OZONE,PPB,16,1,Oakville,Ontario Ministry of the Environment,124000061603,124000061603,Canada,AirNow,historical,Toronto
+43.486917,-79.702278,2025-05-23T00:00,NO2,PPB,6,1,Oakville,Ontario Ministry of the Environment,124000061603,124000061603,Canada,AirNow,historical,Toronto
+43.546174,-79.658797,2025-05-23T00:00,PM2.5,UG/M3,23,1,Misssissauga,Ontario Ministry of the Environment,124000060434,124000060434,Canada,AirNow,historical,Toronto
+43.546174,-79.658797,2025-05-23T00:00,OZONE,PPB,12,1,Misssissauga,Ontario Ministry of the Environment,124000060434,124000060434,Canada,AirNow,historical,Toronto
+43.546174,-79.658797,2025-05-23T00:00,NO2,PPB,9,1,Misssissauga,Ontario Ministry of the Environment,124000060434,124000060434,Canada,AirNow,historical,Toronto
+43.709444,-79.5435,2025-05-23T00:00,PM2.5,UG/M3,16,1,Toronto West,Ontario Ministry of the Environment,124000060430,124000060430,Canada,AirNow,historical,Toronto
+43.709444,-79.5435,2025-05-23T00:00,NO2,PPB,14,1,Toronto West,Ontario Ministry of the Environment,124000060430,124000060430,Canada,AirNow,historical,Toronto
+43.709444,-79.5435,2025-05-23T00:00,OZONE,PPB,12,1,Toronto West,Ontario Ministry of the Environment,124000060430,124000060430,Canada,AirNow,historical,Toronto
+44.044306,-79.48325,2025-05-23T00:00,OZONE,PPB,18,1,Newmarket,Ontario Ministry of the Environment,124000065101,124000065101,Canada,AirNow,historical,Unknown
+44.044306,-79.48325,2025-05-23T00:00,PM2.5,UG/M3,6,1,Newmarket,Ontario Ministry of the Environment,124000065101,124000065101,Canada,AirNow,historical,Unknown
+44.044306,-79.48325,2025-05-23T00:00,NO2,PPB,3,1,Newmarket,Ontario Ministry of the Environment,124000065101,124000065101,Canada,AirNow,historical,Unknown
+43.78047,-79.467372,2025-05-23T00:00,OZONE,PPB,19,1,Toronto North,Ontario Ministry of the Environment,124000060440,124000060440,Canada,AirNow,historical,Toronto
+43.78047,-79.467372,2025-05-23T00:00,PM2.5,UG/M3,14,1,Toronto North,Ontario Ministry of the Environment,124000060440,124000060440,Canada,AirNow,historical,Toronto
+43.78047,-79.467372,2025-05-23T00:00,NO2,PPB,6,1,Toronto North,Ontario Ministry of the Environment,124000060440,124000060440,Canada,AirNow,historical,Toronto
+43.645451,-79.3891,2025-05-23T00:00,PM2.5,UG/M3,47,1,Toronto Downtown,Ontario Ministry of the Environment,124000060445,124000060445,Canada,AirNow,historical,Toronto
+43.645451,-79.3891,2025-05-23T00:00,NO2,PPB,14,1,Toronto Downtown,Ontario Ministry of the Environment,124000060445,124000060445,Canada,AirNow,historical,Toronto
+43.645451,-79.3891,2025-05-23T00:00,OZONE,PPB,13,1,Toronto Downtown,Ontario Ministry of the Environment,124000060445,124000060445,Canada,AirNow,historical,Toronto
+43.747917,-79.274056,2025-05-23T00:00,OZONE,PPB,20,1,Toronto East,Ontario Ministry of the Environment,000060410,124000060410,Canada,AirNow,historical,Toronto
+43.747917,-79.274056,2025-05-23T00:00,PM2.5,UG/M3,9,1,Toronto East,Ontario Ministry of the Environment,000060410,124000060410,Canada,AirNow,historical,Toronto
+43.747917,-79.274056,2025-05-23T00:00,NO2,PPB,3,1,Toronto East,Ontario Ministry of the Environment,000060410,124000060410,Canada,AirNow,historical,Toronto
+43.160056,-79.23475,2025-05-23T00:00,OZONE,PPB,14,1,St. Catharines,Ontario Ministry of the Environment,000061302,124000061302,Canada,AirNow,historical,Toronto
+43.160056,-79.23475,2025-05-23T00:00,PM2.5,UG/M3,11,1,St. Catharines,Ontario Ministry of the Environment,000061302,124000061302,Canada,AirNow,historical,Toronto
+43.160056,-79.23475,2025-05-23T00:00,NO2,PPB,3,1,St. Catharines,Ontario Ministry of the Environment,000061302,124000061302,Canada,AirNow,historical,Toronto
+45.224278,-78.932944,2025-05-23T00:00,OZONE,PPB,23,1,Dorset,Ontario Ministry of the Environment,000063301,124000063301,Canada,AirNow,historical,Unknown
+45.224278,-78.932944,2025-05-23T00:00,PM2.5,UG/M3,4,1,Dorset,Ontario Ministry of the Environment,000063301,124000063301,Canada,AirNow,historical,Unknown
+43.952248,-78.91252,2025-05-23T00:00,OZONE,PPB,23,1,Oshawa,Ontario Ministry of the Environment,124000061703,124000061703,Canada,AirNow,historical,Unknown
+43.952248,-78.91252,2025-05-23T00:00,NO2,PPB,2,1,Oshawa,Ontario Ministry of the Environment,124000061703,124000061703,Canada,AirNow,historical,Unknown
+43.2189,-78.4792,2025-05-23T00:00,OZONE,PPB,17,1,Middleport,New York Dept. of Environmental Conservation,360631006,840360631006,Canada,AirNow,historical,Unknown
+44.301848,-78.346384,2025-05-23T00:00,OZONE,PPB,21,1,Peterborough,Ontario Ministry of the Environment,000061104,124000061104,Canada,AirNow,historical,Unknown
+44.301848,-78.346384,2025-05-23T00:00,PM2.5,UG/M3,2,1,Peterborough,Ontario Ministry of the Environment,000061104,124000061104,Canada,AirNow,historical,Unknown
+44.301848,-78.346384,2025-05-23T00:00,NO2,PPB,2,1,Peterborough,Ontario Ministry of the Environment,000061104,124000061104,Canada,AirNow,historical,Unknown
+43.145021,-77.557608,2025-05-23T00:00,PM2.5,UG/M3,13,1,Rochester Near-road,New York Dept. of Environmental Conservation,360550015,840360550015,Canada,AirNow,historical,Unknown
+43.1461,-77.5481,2025-05-23T00:00,OZONE,PPB,16,1,Rochester,New York Dept. of Environmental Conservation,360551007,840360551007,Canada,AirNow,historical,Unknown
+43.1461,-77.5481,2025-05-23T00:00,PM2.5,UG/M3,8,1,Rochester,New York Dept. of Environmental Conservation,360551007,840360551007,Canada,AirNow,historical,Unknown
+44.150528,-77.3955,2025-05-23T00:00,OZONE,PPB,25,1,Belleville,Ontario Ministry of the Environment,000065401,124000065401,Canada,AirNow,historical,Unknown
+44.150528,-77.3955,2025-05-23T00:00,PM2.5,UG/M3,6,1,Belleville,Ontario Ministry of the Environment,000065401,124000065401,Canada,AirNow,historical,Unknown
+44.150528,-77.3955,2025-05-23T00:00,NO2,PPB,1,1,Belleville,Ontario Ministry of the Environment,000065401,124000065401,Canada,AirNow,historical,Unknown
+43.2303,-77.1728,2025-05-23T00:00,OZONE,PPB,19,1,Williamson,New York Dept. of Environmental Conservation,361173001,840361173001,Canada,AirNow,historical,Unknown
+44.219953,-76.521143,2025-05-23T00:00,OZONE,PPB,22,1,Kingston,Ontario Ministry of the Environment,000060304,124000060304,Canada,AirNow,historical,Unknown
+44.219953,-76.521143,2025-05-23T00:00,PM2.5,UG/M3,11,1,Kingston,Ontario Ministry of the Environment,000060304,124000060304,Canada,AirNow,historical,Unknown
+44.219953,-76.521143,2025-05-23T00:00,NO2,PPB,2,1,Kingston,Ontario Ministry of the Environment,000060304,124000060304,Canada,AirNow,historical,Unknown
+43.284279,-76.46318,2025-05-23T00:00,OZONE,PPB,20,1,Fulton,New York Dept. of Environmental Conservation,360750003,840360750003,Canada,AirNow,historical,Unknown
+43.0528,-76.0597,2025-05-23T00:00,OZONE,PPB,21,1,E Syracuse,New York Dept. of Environmental Conservation,360671015,840360671015,Canada,AirNow,historical,Unknown
+43.0528,-76.0597,2025-05-23T00:00,PM2.5,UG/M3,3,1,E Syracuse,New York Dept. of Environmental Conservation,360671015,840360671015,Canada,AirNow,historical,Unknown
+45.6222,-76.0178,2025-05-23T00:00,OZONE,PPB,26,1,Parc de la Gatineau - La Pêche,Canada-Quebec1,000052401,124000052401,Canada,AirNow,historical,Unknown
+45.6222,-76.0178,2025-05-23T00:00,PM2.5,UG/M3,12,1,Parc de la Gatineau - La Pêche,Canada-Quebec1,000052401,124000052401,Canada,AirNow,historical,Unknown
+44.0878,-75.9744,2025-05-23T00:00,OZONE,PPB,23,1,Perch River,New York Dept. of Environmental Conservation,360450002,840360450002,Canada,AirNow,historical,Unknown
+45.4369,-75.7261,2025-05-23T00:00,OZONE,PPB,29,1,Gatineau - Hull,Canada-Quebec1,000050204,124000050204,Canada,AirNow,historical,Unknown
+45.4369,-75.7261,2025-05-23T00:00,PM2.5,UG/M3,13,1,Gatineau - Hull,Canada-Quebec1,000050204,124000050204,Canada,AirNow,historical,Unknown
+45.434333,-75.67599,2025-05-23T00:00,OZONE,PPB,27,1,Ottawa Downtown,Ontario Ministry of the Environment,000060104,124000060104,Canada,AirNow,historical,Unknown
+45.434333,-75.67599,2025-05-23T00:00,PM2.5,UG/M3,13,1,Ottawa Downtown,Ontario Ministry of the Environment,000060104,124000060104,Canada,AirNow,historical,Unknown
+45.434333,-75.67599,2025-05-23T00:00,NO2,PPB,1,1,Ottawa Downtown,Ontario Ministry of the Environment,000060104,124000060104,Canada,AirNow,historical,Unknown
+43.0994,-75.225,2025-05-23T00:00,PM2.5,UG/M3,0,1,Utica,New York Dept. of Environmental Conservation,360652001,840360652001,Canada,AirNow,historical,Unknown
+45.017976,-74.735339,2025-05-23T00:00,OZONE,PPB,28,1,Cornwall,Ontario Ministry of the Environment,000061201,124000061201,Canada,AirNow,historical,Unknown
+45.017976,-74.735339,2025-05-23T00:00,PM2.5,UG/M3,9,1,Cornwall,Ontario Ministry of the Environment,000061201,124000061201,Canada,AirNow,historical,Unknown
+45.017976,-74.735339,2025-05-23T00:00,NO2,PPB,1,1,Cornwall,Ontario Ministry of the Environment,000061201,124000061201,Canada,AirNow,historical,Unknown
+43.4556,-74.515,2025-05-23T00:00,OZONE,PPB,25,1,Piseco Lake,New York Dept. of Environmental Conservation,360410005,840360410005,Canada,AirNow,historical,Unknown
+45.1167,-74.2833,2025-05-23T00:00,OZONE,PPB,27,1,Saint-Anicet,Canada-Quebec1,000054401,124000054401,Canada,AirNow,historical,Unknown
+45.1167,-74.2833,2025-05-23T00:00,PM2.5,UG/M3,11,1,Saint-Anicet,Canada-Quebec1,000054401,124000054401,Canada,AirNow,historical,Unknown
+45.426509,-73.928944,2025-05-23T00:00,OZONE,PPB,22,1,Sainte-Anne-de-Bellevue,Canada-Quebec2,CC0050126,124CC0050126,Canada,AirNow,historical,Montreal
+45.426509,-73.928944,2025-05-23T00:00,PM2.5,UG/M3,16,1,Sainte-Anne-de-Bellevue,Canada-Quebec2,CC0050126,124CC0050126,Canada,AirNow,historical,Montreal
+45.426509,-73.928944,2025-05-23T00:00,NO2,PPB,8,1,Sainte-Anne-de-Bellevue,Canada-Quebec2,CC0050126,124CC0050126,Canada,AirNow,historical,Montreal
+44.39308,-73.8589,2025-05-23T00:00,OZONE,PPB,28,1,Whiteface Mtn,New York Dept. of Environmental Conservation,360310003,840360310003,Canada,AirNow,historical,Unknown
+44.39308,-73.8589,2025-05-23T00:00,PM2.5,UG/M3,5,1,Whiteface Mtn,New York Dept. of Environmental Conservation,360310003,840360310003,Canada,AirNow,historical,Unknown
+45.5472,-73.7472,2025-05-23T00:00,OZONE,PPB,23,1,Laval - Chomedey,Canada-Quebec1,000050113,124000050113,Canada,AirNow,historical,Montreal
+45.5472,-73.7472,2025-05-23T00:00,PM2.5,UG/M3,16,1,Laval - Chomedey,Canada-Quebec1,000050113,124000050113,Canada,AirNow,historical,Montreal
+45.468297,-73.741185,2025-05-23T00:00,PM2.5,UG/M3,17,1,Aéroport de Montréal 1,Canada-Quebec2,CC0050128,124CC0050128,Canada,AirNow,historical,Montreal
+45.468297,-73.741185,2025-05-23T00:00,NO2,PPB,8,1,Aéroport de Montréal 1,Canada-Quebec2,CC0050128,124CC0050128,Canada,AirNow,historical,Montreal
+45.502648,-73.663913,2025-05-23T00:00,OZONE,PPB,24,1,Duncan,Canada-Quebec2,CC0050109,124CC0050109,Canada,AirNow,historical,Montreal
+45.502648,-73.663913,2025-05-23T00:00,PM2.5,UG/M3,17,1,Duncan,Canada-Quebec2,CC0050109,124CC0050109,Canada,AirNow,historical,Montreal
+45.502648,-73.663913,2025-05-23T00:00,NO2,PPB,2,1,Duncan,Canada-Quebec2,CC0050109,124CC0050109,Canada,AirNow,historical,Montreal
+45.70476,-73.65776,2025-05-23T00:00,OZONE,PPB,24,1,Terrebonne - Parc Vaillant,Canada-Quebec1,000050137,124000050137,Canada,AirNow,historical,Montreal
+45.70476,-73.65776,2025-05-23T00:00,PM2.5,UG/M3,16,1,Terrebonne - Parc Vaillant,Canada-Quebec1,000050137,124000050137,Canada,AirNow,historical,Montreal
+45.593325,-73.637328,2025-05-23T00:00,OZONE,PPB,25,1,Caserne 17,Canada-Quebec2,CC0050135,124CC0050135,Canada,AirNow,historical,Montreal
+45.593325,-73.637328,2025-05-23T00:00,PM2.5,UG/M3,14,1,Caserne 17,Canada-Quebec2,CC0050135,124CC0050135,Canada,AirNow,historical,Montreal
+45.464611,-73.582583,2025-05-23T00:00,PM2.5,UG/M3,18,1,York-Roberval,Canada-Quebec2,CC0050138,124CC0050138,Canada,AirNow,historical,Montreal

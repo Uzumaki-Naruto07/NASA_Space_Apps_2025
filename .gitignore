@@ -79,6 +79,17 @@ test_tempo_l2/
 single_tempo_test/
 "Tempo and weather/"
 
+# Backend data files (exclude large files, include samples)
+backend/data/raw/ground/*.csv
+!backend/data/raw/ground/sample_*.csv
+backend/data/raw/tempo/*.csv
+!backend/data/raw/tempo/sample_*.csv
+backend/data/raw/weather/*.csv
+!backend/data/raw/weather/sample_*.csv
+
+# Keep validation artifacts
+!backend/data/artifacts/
+
 # Large data archives
 *.tar.gz
 *.zip
@@ -160,3 +171,14 @@ dmypy.json
 data/
 raw_data/
 processed_data/
+
+# Large data files (exclude from Git)
+backend/data/raw/ground/*.csv
+!backend/data/raw/ground/sample_*.csv
+backend/data/raw/tempo/*.csv
+!backend/data/raw/tempo/sample_*.csv
+backend/data/raw/weather/*.csv
+!backend/data/raw/weather/sample_*.csv
+
+# Keep validation artifacts
+!backend/data/artifacts/
