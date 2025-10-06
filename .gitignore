@@ -1,0 +1,162 @@
+# 🚀 NASA TEMPO Dashboard - Git Ignore File
+# =========================================
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+tempo_env/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Data files (too large for GitHub)
+*.nc
+*.nc4
+*.HDF5
+*.h5
+*.hdf5
+data/raw/
+data/processed/
+canada_tempo_raw_complete/
+canada_weather_raw/
+mexico_tempo_raw_complete/
+mexico_weather_raw/
+nyc_tempo_raw_complete/
+nyc_weather_raw/
+full_tempo_l2/
+real_tempo_l2_data/
+test_canada_l2/
+test_l2_data/
+test_tempo_l2/
+single_tempo_test/
+"Tempo and weather/"
+
+# Large data archives
+*.tar.gz
+*.zip
+*.rar
+*.7z
+nasa-backend-package.tar.gz
+
+# Artifacts and outputs
+artifacts/
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.pdf
+*.csv
+*.json
+*.pkl
+*.pickle
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm
+.yarn-integrity
+
+# Frontend build
+frontend/dist/
+frontend/build/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Backup files
+*.bak
+*.backup
+*.old
+
+# Test files
+test_*/
+tests/
+*_test.py
+test_*.py
+
+# Documentation build
+docs/_build/
+site/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# Large data directories
+data/
+raw_data/
+processed_data/
