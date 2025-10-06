@@ -9,12 +9,15 @@ Built for **NASA Space Apps Challenge 2025** - A comprehensive system that revol
 
 ---
 
-## 🎥 **System Demonstration Videos**
+## 🎥 **System Demonstration Video**
 
-### 📹 **CleanSkies AI - Web Application Demo**
-[![CleanSkies AI Web App Demo](https://drive.google.com/thumbnail?id=1LbiAiLi_YgZd5cqoGbeCX2vma0KPfuQU&sz=w1000)](https://drive.google.com/uc?export=download&id=1LbiAiLi_YgZd5cqoGbeCX2vma0KPfuQU)
+### 📹 **CleanSkies AI - Complete System Demo**
 
-**🌐 [Watch Web Application Demo](https://drive.google.com/uc?export=download&id=1LbiAiLi_YgZd5cqoGbeCX2vma0KPfuQU)**
+[![CleanSkies AI System Demo](https://drive.google.com/thumbnail?id=1LbiAiLi_YgZd5cqoGbeCX2vma0KPfuQU&sz=w1000)](https://drive.google.com/file/d/1LbiAiLi_YgZd5cqoGbeCX2vma0KPfuQU/view?usp=drive_link)
+
+**🌐 [Watch Complete System Demo](https://drive.google.com/file/d/1LbiAiLi_YgZd5cqoGbeCX2vma0KPfuQU/view?usp=drive_link)**
+
+**Features Demonstrated:**
 - **🌍 Interactive Dashboard** - Real-time air quality monitoring
 - **🔬 Advanced Validation** - NASA TEMPO vs Ground data comparison  
 - **🤖 AI/ML Forecasting** - 24-72 hour predictions with uncertainty
@@ -22,16 +25,8 @@ Built for **NASA Space Apps Challenge 2025** - A comprehensive system that revol
 - **🏔️ 3D Visualizations** - Topography and wind flow
 - **🎮 Gaming Experience** - Interactive air quality management
 - **🌐 Bilingual Support** - English/Arabic with RTL layout
-
-### 🎬 **CleanSkies AI - Complete System Demo**
-[![CleanSkies AI System Demo](https://drive.google.com/thumbnail?id=1mWyr1MHEYGFrw3m-FNpIR3IyW2dbLsHH&sz=w1000)](https://drive.google.com/file/d/1mWyr1MHEYGFrw3m-FNpIR3IyW2dbLsHH/view?usp=drive_link)
-
-**🚀 [Watch Complete System Demo](https://drive.google.com/file/d/1mWyr1MHEYGFrw3m-FNpIR3IyW2dbLsHH/view?usp=drive_link)**
 - **🛰️ NASA TEMPO Integration** - Satellite data processing and validation
-- **🔬 Scientific Validation** - Statistical analysis and ground truth comparison
-- **🤖 AI/ML Forecasting** - Multi-model ensemble predictions
 - **📊 Data Visualization** - Interactive maps and 3D visualizations
-- **🎮 Gaming Components** - Interactive air quality management games
 - **🌍 Global Coverage** - Multi-region support (NYC, Canada, Mexico, UAE)
 
 ---
